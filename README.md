@@ -8,6 +8,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mubashiralam89)
 <a href="mailto:mubashiralam89@gmail.com"><img src="https://img.shields.io/badge/Email-orange"></a>
 <a href="https://mubashiralam.com/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-mubashiralam.com-red"></a>
+[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mubashiralam890)
 
 ## 💻 My Tech Stacks:
 
