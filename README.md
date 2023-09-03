@@ -4,8 +4,8 @@
 
 ## Feel Free To Contact Me &#128522;
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mubashiralam1)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mubashiralam89)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mubashiralam1/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mubashiralam89/)
 <a href="mailto:mubashiralam89@gmail.com"><img src="https://img.shields.io/badge/Email-orange"></a>
 <a href="https://mubashiralam.com/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-mubashiralam.com-red"></a>
 
